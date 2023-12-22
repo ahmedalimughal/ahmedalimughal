@@ -4,13 +4,19 @@ Welcome to my GitHub profile! I'm Ahmed Ali, a seasoned full-stack engineer with
 
 ## 🚀 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=ddc508&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-000?&logo=react&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=white&style=for-the-badge)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?&logo=wordpress&logoColor=white&style=for-the-badge)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?&logo=shopify&logoColor=white&style=for-the-badge)
+![Wix](https://img.shields.io/badge/-Wix-000?&logo=wix&style=for-the-badge)
+![Squarespace](https://img.shields.io/badge/-Squarespace-000?&logo=squarespace&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap&logoColor=white&style=for-the-badge)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-000?&logo=sublime-text&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?&logo=jquery&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code&logoColor=blue&style=for-the-badge)
 
 ## 📫 Contact Me
