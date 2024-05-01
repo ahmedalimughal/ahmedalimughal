@@ -1,4 +1,4 @@
-# Ahmed Ali | Full-Stack Engineer
+# Ahmed Ali | Software Engineer
 
 Welcome to my GitHub profile! I'm Ahmed Ali, a seasoned full-stack engineer with five years of experience in web development.
 
