@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm Ahmed Ali, a seasoned full-stack engineer with
 [![Email](https://img.shields.io/badge/-Email-D14836?&logo=gmail&logoColor=white&style=for-the-badge)](mailto:ahmedali110d@gmail.com)
 
 ## ☕ Support Me
-<a href="https://www.buymeacoffee.com/ahmedalimughal">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ahmedalimughal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="100" width="200" /></a>
+
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ahmedalimughal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ahmedalimughal)
+
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding! 🚀
