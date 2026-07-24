@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 👋 Hi, I'm Ahmed Ali Mughal
 
