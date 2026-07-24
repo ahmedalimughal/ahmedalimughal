@@ -1,20 +1,20 @@
-<div>
+<div align="center">
 
 # 👋 Hi, I'm Ahmed Ali Mughal
 
-### Senior Central Manager | Senior Full Stack Developer | Software Architect
+### Senior Central Manager • Senior Full Stack Developer • Software Architect
 
-Building scalable SaaS platforms, enterprise applications, AI-powered solutions, cloud architectures, ERP, HRMS, Fleet Management Systems, POS Solutions, Payment Integrations, and modern digital products.
+Building scalable SaaS platforms, enterprise applications, AI-powered solutions, ERP, HRMS, Fleet Management Systems, POS Solutions, Payment Integrations, Cloud Architectures, and Digital Products.
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-000000?style=for-the-badge)](https://ahmedalimughal.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Ali_Mughal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ali-mughal/)
-[![Upwork](https://img.shields.io/badge/Upwork-View_Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018882df2742b860b9?mp_source=share)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018882df2742b860b9)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmedalimughal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedalimughal)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedali110d@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedalimughal&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=ahmedalimughal&style=for-the-badge&color=blue)
 
 </div>
 
@@ -22,43 +22,35 @@ Building scalable SaaS platforms, enterprise applications, AI-powered solutions,
 
 # 💻 About Me
 
-I'm a **Senior Full Stack Developer** and **Senior Central Manager** passionate about designing and developing enterprise-grade software solutions.
+I'm a Senior Full Stack Developer and Software Architect specializing in enterprise-grade applications, scalable SaaS platforms, cloud-based systems, REST APIs, AI-powered solutions, ERP, HRMS, Fleet Management, POS, Payment Integrations, and Business Automation.
 
-With years of experience building modern web applications, I specialize in scalable architectures, SaaS platforms, AI-powered applications, cloud-based systems, ERP, HRMS, Fleet Management, POS solutions, payment gateway integrations, REST APIs, and business automation.
-
-I enjoy solving complex business problems through clean architecture, modern technologies, and user-centric design while delivering secure, high-performance applications.
+I enjoy transforming complex business ideas into secure, scalable, and high-performance software.
 
 ---
 
 # 🚀 Tech Stack
 
-## 👨‍💻 Programming Languages
+## Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
----
-
-## ⚡ Frontend
+## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
 
----
-
-## 🔥 Backend
+## Backend
 
 ![Core PHP](https://img.shields.io/badge/Core_PHP-777BB4?style=for-the-badge&logo=php)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
----
-
-## ☁️ Cloud & DevOps
+## Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -67,107 +59,66 @@ I enjoy solving complex business problems through clean architecture, modern tec
 
 ---
 
-## 🌐 CMS & E-Commerce
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify)
-![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix)
-![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace)
-
----
-
-## 🛠️ Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext)
-
----
-
 # 🏗️ What I Build
 
-- 🚀 Enterprise Web Applications
-- 💼 SaaS Platforms
-- 🤖 AI-Powered Applications
-- 🏢 ERP Systems
-- 👥 HRMS & Payroll Solutions
-- 🚚 Fleet Management Systems
-- 🛒 POS Systems
-- 💳 Payment Gateway Integrations
-- 📊 Admin Dashboards
-- 🔗 REST APIs
-- 📈 CRM Solutions
-- 🔄 Business Automation
-- 🌐 Multi-Tenant Applications
-- ☁️ Cloud-Based Systems
+- Enterprise Web Applications
+- SaaS Platforms
+- AI-Powered Applications
+- ERP Systems
+- HRMS & Payroll
+- Fleet Management Systems
+- POS Solutions
+- Payment Gateway Integrations
+- REST APIs
+- CRM Solutions
+- Business Automation
+- Multi-Tenant SaaS
+- Cloud Platforms
 
 ---
 
-# 🎯 Core Expertise
+# 📊 GitHub Analytics
 
-- Software Architecture
-- Full Stack Development
-- Enterprise Application Development
-- API Development & Integration
-- Database Design
-- Performance Optimization
-- Technical Leadership
-- Business Process Automation
-- Cloud Architecture
-- System Design
-- UI/UX Development
-- Scalable Software Engineering
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedalimughal&theme=tokyonight)
+
+| | |
+|:-:|:-:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedalimughal&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedalimughal&theme=tokyonight) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalimughal&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalimughal&theme=tokyonight&utcOffset=5) |
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedalimughal&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ahmedalimughal/ahmedalimughal/main/github-metrics.svg" width="100%">
+</p>
 
 ---
 
 # 🌱 Currently Exploring
 
 - Artificial Intelligence
-- Cloud-Native Architecture
+- Cloud Native Applications
+- DevOps
 - Microservices
-- DevOps Best Practices
 - Enterprise Security
 - System Design
-- Scalable SaaS Platforms
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedalimughal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalimughal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ahmedalimughal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedalimughal&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
+- Distributed Systems
 
 ---
 
 # 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-000000?style=for-the-badge)](https://ahmedalimughal.netlify.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ali-mughal/)
-
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018882df2742b860b9?mp_source=share)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedalimughal)
-
-[![Email](https://img.shields.io/badge/Email-ahmedali110d@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedali110d@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge)](https://ahmedalimughal.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-ali-mughal/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~018882df2742b860b9)
 
 ---
 
@@ -177,7 +128,7 @@ I enjoy solving complex business problems through clean architecture, modern tec
 
 <a href="https://www.buymeacoffee.com/ahmedalimughal">
 
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=☕&slug=ahmedalimughal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/>
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=☕&slug=ahmedalimughal&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff"/>
 
 </a>
 
@@ -187,10 +138,8 @@ I enjoy solving complex business problems through clean architecture, modern tec
 
 <div align="center">
 
-## 💡 "Turning Ideas into Scalable Software Solutions."
+## 💡 Turning Ideas into Scalable Software Solutions
 
-⭐ **If you find my work helpful, don't forget to star my repositories!**
-
-Thank you for visiting my GitHub profile. Let's build something amazing together! 🚀
+⭐ If you like my work, consider starring my repositories.
 
 </div>
