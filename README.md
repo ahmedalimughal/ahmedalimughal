@@ -78,14 +78,51 @@ I enjoy transforming complex business ideas into secure, scalable, and high-perf
 ---
 
 # 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedalimughal&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedalimughal&theme=tokyonight"
+    width="100%"
+    alt="Profile Details"
+  />
+</p>
 
-| | |
-|:-:|:-:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedalimughal&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedalimughal&theme=tokyonight) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalimughal&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalimughal&theme=tokyonight&utcOffset=5) |
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedalimughal&theme=tokyonight"
+        width="100%"
+        alt="Repos Per Language"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedalimughal&theme=tokyonight"
+        width="100%"
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
 
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalimughal&theme=tokyonight"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalimughal&theme=tokyonight&utcOffset=5"
+        width="100%"
+        alt="Productive Time"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 # 📈 Contribution Graph
