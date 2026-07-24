@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 👋 Hi, I'm Ahmed Ali Mughal
 
@@ -90,7 +90,11 @@ I enjoy transforming complex business ideas into secure, scalable, and high-perf
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedalimughal&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ahmedalimughal/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedalimughal&theme=tokyo-night" width="100%" />
+  </a>
+</p>
 
 ---
 
