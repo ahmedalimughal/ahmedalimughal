@@ -1,0 +1,101 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    # Every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: ahmedalimughal
+
+          template: classic
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Karachi
+
+          config_display: large
+
+          config_twemoji: yes
+
+          config_animations: yes
+
+          plugin_isocalendar: yes
+
+          plugin_isocalendar_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_limit: 10
+          plugin_languages_threshold: 0%
+          plugin_languages_sections: most-used,recent
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
+
+          plugin_stars: yes
+
+          plugin_followup: yes
+
+          plugin_lines: yes
+
+          plugin_repositories: yes
+          plugin_repositories_featured: ahmedalimughal/your-best-project
+          plugin_repositories_order: featured, pinned, starred
+
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          plugin_habits_from: 200
+
+          plugin_traffic: yes
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
+
+          plugin_introduction: yes
+
+          plugin_notable: yes
+
+          plugin_calendar: yes
+
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 30
+
+          plugin_discussions: yes
+
+          plugin_gists: yes
+
+          plugin_people: yes
+          plugin_people_limit: 20
+
+          plugin_code: yes
+
+          plugin_projects: yes
+
+          plugin_sponsors: yes
